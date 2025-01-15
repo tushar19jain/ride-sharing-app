@@ -1,0 +1,18 @@
+{
+  "name": "ride-sharing-app-backend",
+  "version": "1.0.0",
+  "description": "This is a backend application for the ride sharing application on the web and mobile devices.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tushar Jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongodb": "^6.12.0",
+    "mongoose": "^8.9.5",
+    "nodemon": "^3.1.9"
+  }
+}
